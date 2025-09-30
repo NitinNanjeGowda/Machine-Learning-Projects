@@ -1,0 +1,6 @@
+text,pred_label,prob_neg,prob_pos
+This movie was absolutely wonderful!,positive,0.20508625403881797,0.794913745961182
+"I hated every moment of it.
+",negative,0.533931413768496,0.46606858623150405
+This was great,positive,0.026502569687059108,0.9734974303129409
+Worst ever,negative,0.9633103945438595,0.03668960545614049
